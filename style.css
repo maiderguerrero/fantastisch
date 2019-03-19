@@ -590,7 +590,7 @@
 	color: #333;
 	}
 
-.content .bck-ol6 li:before,
+.content .bck-ol7 li:before,
 .cke_contents .bck-ol7 li:before {
 	content: counter(bck-li-counter, lower-alpha);
     color: #fff;
