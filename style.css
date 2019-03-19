@@ -522,7 +522,7 @@
 .cke_contents .bck-ol5 li:before {
 	content: counter(bck-li-counter, lower-alpha);
     color: #fff;
-    background: #333;
+    background: 0087CC;
     padding: 0px;
     border-radius: 100%;
     position: absolute;
