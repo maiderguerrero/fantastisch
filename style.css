@@ -443,10 +443,51 @@
 
 /*LISTA ORDENADA 2*/
 
-
-
 .content .bck-ol2 li,
-.cke_contents .bck-ol2 li {
+.cke_contents .bck-ol2 li,
+.content ol li,
+.cke_contents ol li {
+	list-style-type: none;
+	padding-left: 28px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-weight: bold;
+	color: #0087CC;
+}
+
+.content .bck-ol2 li:before,
+.cke_contents .bck-ol2 li:before,
+.content ol li:before,
+.cke_contents ol li:before {
+    content: counter(bck-li-counter) ".";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 20px;
+    height: 0px;
+    -webkit-box-shadow: 0px;
+    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
+    box-shadow: 0px;
+    border: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 0px;
+    background: #fff;
+    color: #333;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: inherit;
+    font-family: sans-serif;
+}
+
+/*LISTA ORDENADA 3*/
+
+.content .bck-ol3 li,
+.cke_contents .bck-ol3 li {
 	list-style-type: none;
 	padding-left: 28px;
 	margin-bottom: 16px;
@@ -456,8 +497,8 @@
 	font-weight: bold;
 }
 
-.content .bck-ol2 li:before,
-.cke_contents .bck-ol2 li:before {
+.content .bck-ol3 li:before,
+.cke_contents .bck-ol3 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
     top: 0px;
@@ -482,21 +523,6 @@
 
 }
 
-/*LISTA ORDENADA 3*/
-
-.content .bck-ol3 li,
-.cke_contents .bck-ol3 li {
-	font-weight: normal;
-	}
-
-
-.content .bck-ol3 li:before,
-.cke_contents .bck-ol3 li:before {
-    content: counter(bck-li-counter, lower-alpha) ".";
-    color: #000;
-    font-style: 2rem;
-    }
-
 /*LISTA ORDENADA 4*/
 
 .content .bck-ol4 li,
@@ -508,10 +534,9 @@
 .content .bck-ol4 li:before,
 .cke_contents .bck-ol4 li:before {
     content: counter(bck-li-counter, lower-alpha) ".";
-    color: #0087CC;
-    font-size: 2rem;
+    color: #000;
+    font-style: 2rem;
     }
-
 
 /*LISTA ORDENADA 5*/
 
@@ -520,8 +545,24 @@
 	font-weight: normal;
 	}
 
+
 .content .bck-ol5 li:before,
 .cke_contents .bck-ol5 li:before {
+    content: counter(bck-li-counter, lower-alpha) ".";
+    color: #0087CC;
+    font-size: 2rem;
+    }
+
+
+/*LISTA ORDENADA 6*/
+
+.content .bck-ol6 li,
+.cke_contents .bck-ol6 li {
+	font-weight: normal;
+	}
+
+.content .bck-ol6 li:before,
+.cke_contents .bck-ol6 li:before {
 	content: counter(bck-li-counter);
     color: #fff;
     background: #0087CC;
@@ -535,15 +576,15 @@
     font-size: 1.7rem;
 }
 
-/*LISTA ORDENADA 6*/
+/*LISTA ORDENADA 7*/
 
-.content .bck-ol6 li,
-.cke_contents .bck-ol6 li {
+.content .bck-ol7 li,
+.cke_contents .bck-ol7 li {
 	font-weight: normal;
 	}
 
 .content .bck-ol6 li:before,
-.cke_contents .bck-ol6 li:before {
+.cke_contents .bck-ol7 li:before {
 	content: counter(bck-li-counter, lower-alpha);
     color: #fff;
     background: #0087CC;
