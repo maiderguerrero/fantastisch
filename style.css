@@ -577,6 +577,14 @@
 	margin-bottom: 0;
 }
 
+/* Caja 1 */
+.bck-box.bck-box1 {
+	margin: 10px;
+	border: none;
+	background: #F4F2F0;
+
+}
+
 /* Caja 2 */
 .bck-box.bck-box2 {
 	margin: 10px;
