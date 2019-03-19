@@ -1,6 +1,5 @@
 
 
-
 /* General */
 
 	body.content_type_clase_fantastisch {
@@ -444,33 +443,42 @@
 
 /*LISTA ORDENADA 2*/
 
+
+
 .content .bck-ol2 li,
 .cke_contents .bck-ol2 li {
-	font-weight: normal;
-	}
+	list-style-type: none;
+	padding-left: 28px;
+	margin-bottom: 16px;
+	counter-increment: bck-li-counter;
+	position: relative;
+	line-height: 1.1rem;
+	font-weight: bold;
+}
 
 .content .bck-ol2 li:before,
 .cke_contents .bck-ol2 li:before {
-    content: counter(bck-li-counter);
-    color: #333;
+    content: counter(bck-li-counter) ".";
     position: absolute;
-    background: rgba(255,238,0,0);
-    background: -moz-linear-gradient(left, rgba(255,238,0,0) 0%, rgba(255,238,0,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,238,0,0)), color-stop(100%, rgba(255,238,0,1)));
-    background: -webkit-linear-gradient(left, rgba(255,238,0,0) 0%, rgba(255,238,0,1) 100%);
-    background: -o-linear-gradient(left, rgba(255,238,0,0) 0%, rgba(255,238,0,1) 100%);
-    background: -ms-linear-gradient(left, rgba(255,238,0,0) 0%, rgba(255,238,0,1) 100%);
-    background: linear-gradient(to right, rgba(255,238,0,0) 0%, rgba(255,238,0,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffee00', endColorstr='#ffee00', GradientType=1 );
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-    padding: 0px;
-    left: -6px;
     top: 0px;
-    width: 30px;
+    left: 0px;
+    display: inline-block;
+    width: 20px;
+    height: 0px;
+    -webkit-box-shadow: 0px;
+    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
+    box-shadow: 0px;
+    border: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 0px;
+    background: #fff;
+    color: #0087CC;
+    font-size: 22px;
+    font-weight: bold;
     text-align: center;
-    height: auto;
-    font-size: 1.9rem;
+    line-height: inherit;
+    font-family: sans-serif;
 
 }
 
@@ -495,8 +503,23 @@
 	font-weight: normal;
 	}
 
+
 .content .bck-ol4 li:before,
 .cke_contents .bck-ol4 li:before {
+    content: counter(bck-li-counter, lower-alpha) ".";
+    color: #0087CC;
+    }
+
+
+/*LISTA ORDENADA 5*/
+
+.content .bck-ol5 li,
+.cke_contents .bck-ol5 li {
+	font-weight: normal;
+	}
+
+.content .bck-ol5 li:before,
+.cke_contents .bck-ol5 li:before {
 	content: counter(bck-li-counter, lower-alpha);
     color: #fff;
     background: #333;
