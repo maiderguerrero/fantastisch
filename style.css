@@ -413,6 +413,7 @@
 	position: relative;
 	line-height: 1.1rem;
 	font-weight: bold;
+	color: #333;
 }
 
 .content .bck-ol1 li:before,
