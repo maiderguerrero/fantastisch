@@ -497,6 +497,7 @@
 	position: relative;
 	line-height: 1.1rem;
 	font-weight: bold;
+	color: #333;
 }
 
 .content .bck-ol3 li:before,
@@ -530,6 +531,7 @@
 .content .bck-ol4 li,
 .cke_contents .bck-ol4 li {
 	font-weight: normal;
+	color: #333;
 	}
 
 
@@ -545,6 +547,7 @@
 .content .bck-ol5 li,
 .cke_contents .bck-ol5 li {
 	font-weight: normal;
+	color: #333;
 	}
 
 
@@ -561,6 +564,7 @@
 .content .bck-ol6 li,
 .cke_contents .bck-ol6 li {
 	font-weight: normal;
+	color: #333;
 	}
 
 .content .bck-ol6 li:before,
@@ -583,6 +587,7 @@
 .content .bck-ol7 li,
 .cke_contents .bck-ol7 li {
 	font-weight: normal;
+	color: #333;
 	}
 
 .content .bck-ol6 li:before,
