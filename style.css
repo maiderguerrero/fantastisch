@@ -397,6 +397,7 @@
 	list-style-type: none;
 	padding-left: 0;
 	counter-reset: bck-li-counter;
+	color: #333;
 }
 
 /*LISTA ORDENADA 1*/
