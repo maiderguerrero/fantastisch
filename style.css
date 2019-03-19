@@ -638,11 +638,9 @@
 /* Caja 2 */
 .bck-box.bck-box2 {
 	margin: 10px;
-	border: 2px solid #8b9c23;
-	background: #fff;
-	-webkit-border-radius: 10px;
-	   -moz-border-radius: 10px;
-	        border-radius: 10px;
+	border: 2px solid #0087CC;
+	background: #F0EDEA;
+
 }
 
 /* Caja 3 */
