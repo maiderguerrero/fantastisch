@@ -34,6 +34,7 @@
 				{ name: 'Celda 2', element: 'td', attributes: { 'class': 'bck-td-2' } },
 				{ name: 'Celda 3', element: 'td', attributes: { 'class': 'bck-td-3' } },
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td-4' } },
+				{ name: 'Celda 5', element: 'td', attributes: { 'class': 'bck-td-5' } },
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box2' } },
