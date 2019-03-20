@@ -804,14 +804,6 @@
 }
 
 
-/*DESPLEGABLE*/
-.bck-dropdown-content {
-    overflow-y: auto;
-    display: none;
-    max-height: 300px;
-    padding: 10px;
-    background-color: transparent;
-}
 
 
 
