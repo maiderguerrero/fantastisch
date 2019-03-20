@@ -253,7 +253,7 @@
 
 /* Navbar */
 	.navbar-bottom {
-		background: #0087CC;
+		background: #0087CC !important;
     	padding-left: 100px;
     	padding-right: 100px;
 	}
@@ -692,7 +692,7 @@
 /*CAJAS*/
 
 .bck-box {
-	margin: 10px;
+	margin: 10px 10px 20px 10px;
     border: 2px solid #8b9c23;
     border-radius: 0px;
     background: #fff;
