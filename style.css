@@ -817,11 +817,11 @@
     content: " ";
     background: url(images/iconovideo.png);
     padding: 5px;
-    position: absolute;
+    position: relative;
     width: 20px;
     height: auto;
-    top: 5px;
-    left: 5px;
+    top: 0px;
+    left: 0px;
 }
 
 
