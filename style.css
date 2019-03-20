@@ -680,8 +680,14 @@
 	margin: 10px;
 	border: none;
 	background: #F4F2F0;
-
 }
+
+.bck-box1 .bck-title {
+	color: #0087CC;
+    font-size: 2rem;
+    font-weight: 600;
+}
+	
 
 /* Caja 2 */
 .bck-box.bck-box2 {
