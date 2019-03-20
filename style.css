@@ -771,6 +771,14 @@
     font-weight: 600;
 }
 
+/*Celda 5*/
+.content table:not(.rf-tablegrid) td.bck-td-5 {
+    border: 3px solid #E3E3E3;
+    padding: 10px;
+    background: #fff;
+    
+}
+
 /* Icons */
 
 #actividad .player.audio {
