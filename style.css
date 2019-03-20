@@ -298,7 +298,7 @@
     	  color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #fff;
+		background: #F4F2F0;
    		color: transparent;
 	}
 	#bottom-navigator.show_left:before {
@@ -798,7 +798,7 @@
 /* Icons */
 
 #actividad .player.audio {
-	background: url(images/iconoaudio.png) center center / cover;
+	background: url(/images/iconoaudio.png) center center / cover;
 }
 
 .item-container .icon:before {
@@ -817,23 +817,23 @@
 }
 
 .item-container .icon-draw:before {
-	background-image: url(images/Icon_draw.png);
+	background-image: url(/images/Icon_draw.png);
 }
 
 .item-container .icon-write:before {
-	background-image: url(images/Icon_write.png);
+	background-image: url(/images/Icon_write.png);
 }
 
 .item-container .icon-speaking:before {
-	background-image: url(images/Icon_speaking.png);
+	background-image: url(/images/Icon_speaking.png);
 }
 
 .item-container .icon-reading:before {
-	background-image: url(images/Icon_reading.png);
+	background-image: url(/images/Icon_reading.png);
 }
 
 .item-container .icon-star:before {
-	background-image: url(images/Icon_star.png);
+	background-image: url(/images/Icon_star.png);
 }
 
 /* Forms */
