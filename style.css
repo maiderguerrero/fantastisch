@@ -826,7 +826,7 @@
 /* Icons */
 
 #actividad .player.audio {
-	background: url(/images/iconoaudio.png) center center / cover;
+	background: url(images/iconoaudio.png) center center / cover;
 }
 
 .item-container .icon:before {
