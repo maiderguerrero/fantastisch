@@ -605,13 +605,26 @@
     font-size: 1.7rem;
 }
 
-/*LISTA DESORDENADA POR DEFECTO*/
+/*LISTA DESORDENADA 1*/
 
-.texto_curso ul li:before, .workspace ul li ul li:before, .cke_contents ul li:before {
+.texto_curso .bck-ul1 li:before, 
+.workspace .bck-ul1 li ul li:before, 
+.cke_contents .bck-ul1 li:before {
     width: 6px;
     height: 6px;
     background-color: #414141;
 }
+
+/*LISTA DESORDENADA 2*/
+
+.texto_curso .bck-ul2 li:before, 
+.workspace .bck-ul2 li ul li:before, 
+.cke_contents .bck-ul2 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #0087CC;
+}
+
 
 /*CAJAS*/
 
