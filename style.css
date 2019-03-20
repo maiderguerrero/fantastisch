@@ -700,9 +700,16 @@
 	background: #fff;
 }
 
-/*Caja 4*/
-
+/* Caja 4 */
 .bck-box.bck-box4 {
+	margin: 10px;
+	border: 2px solid #B3B2B2;
+	background: #fff;
+}
+
+/*Caja 5*/
+
+.bck-box.bck-box5 {
 	margin: 10px;
 	border: none;
 	background: #fff;
@@ -750,7 +757,6 @@
     border: 3px solid #fff;
     padding: 10px;
     background: #ADCDED;
-    color: #0087CC;
     font-weight: 600;
 }
 
