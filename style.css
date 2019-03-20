@@ -358,9 +358,12 @@
 /*TITULO 3*/
 
 .bck-title3 {
-    color: #8FAB12;
-    font-size: 2.4rem;
+    color: #fff;
+    font-size: 2rem;
     font-weight: bold;
+    background-color: #0087CC;
+    padding: 5px 10px 5px 10px;
+    width: fit-content;
 }
 
 /*TITULO 4*/
