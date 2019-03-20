@@ -741,10 +741,12 @@
     background: #0087CC;
 }
 
+/*Celda 2*/
+
 .content table:not(.rf-tablegrid) td.bck-td-2 {
     border: 3px solid #fff;
     padding: 10px;
-    background: #D4EAE4;
+    background: #ADCDED;
 }
 
 /* Icons */
