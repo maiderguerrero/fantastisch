@@ -744,9 +744,18 @@
 /*Celda 2*/
 
 .content table:not(.rf-tablegrid) td.bck-td-2 {
-    border: 3px solid transparent;
+    border: 3px solid #fff;
     padding: 10px;
     background: #ADCDED;
+    color: #0087CC;
+}
+
+/*Celda 3*/
+
+.content table:not(.rf-tablegrid) td.bck-td-3 {
+    border: 3px solid #fff;
+    padding: 10px;
+    background: #D8E6F7;
 }
 
 /* Icons */
