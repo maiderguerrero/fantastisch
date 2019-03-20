@@ -736,7 +736,7 @@
 /*Celda 1*/
 
 .content table:not(.rf-tablegrid) td.bck-td-1 {
-    border: 3px solid #fff;
+    border: 3px solid transparent;
     padding: 10px;
     background: #0087CC;
 }
@@ -744,7 +744,7 @@
 /*Celda 2*/
 
 .content table:not(.rf-tablegrid) td.bck-td-2 {
-    border: 3px solid #fff;
+    border: 3px solid transparent;
     padding: 10px;
     background: #ADCDED;
 }
