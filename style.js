@@ -36,6 +36,17 @@
 				{ name: 'Celda 4', element: 'td', attributes: { 'class': 'bck-td-4' } },
 				{ name: 'Celda 5', element: 'td', attributes: { 'class': 'bck-td-5' } },
 
+			
+				{ name: 'Icono Writing', element: 'span', attributes: { 'class': 'icon icon-write' } },
+				{ name: 'Icono Speaking 1', element: 'span', attributes: { 'class': 'icon icon-speaking_1' } },
+				{ name: 'Icono Speaking 2', element: 'span', attributes: { 'class': 'icon icon-speaking_2' } },
+				{ name: 'Icono Reading 1', element: 'span', attributes: { 'class': 'icon icon-reading_1' } },
+				{ name: 'Icono Reading 2', element: 'span', attributes: { 'class': 'icon icon-reading_2' } },
+				{ name: 'Icono Bocadillo', element: 'span', attributes: { 'class': 'icon icon-bocadillo' } },
+				{ name: 'Icono Mascaras', element: 'span', attributes: { 'class': 'icon icon-mascaras' } },
+				{ name: 'Icono Boca', element: 'span', attributes: { 'class': 'icon icon-boca' } },
+				
+
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box1' } },
 				{ name: 'Caja 2', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box2' } },
 				{ name: 'Caja 3', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box3' } },
