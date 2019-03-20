@@ -63,13 +63,41 @@
 	    display: block;
 	    width: fit-content;
 	    margin: 0;
-	    padding: 10px 20px 10px 30px;
+	    padding: 10px 20px 10px 60px;
 	    color: #fff;
 	    font-size: 3.5rem;
 	    font-weight: bold;
 	    text-align: left;
 	    background: #0087CC;
 	}
+
+	.content_type_clase_fantastisch #actividad .content .header .title h3:before {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid transparent;
+    border-top: 30px solid transparent;
+    border-left: 25px solid #fff;
+    top: 0px;
+    left: 0;
+}
+
+.content_type_clase_fantastisch #actividad .content .header .title h3:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-bottom: 29px solid transparent;
+    border-top: 29px solid transparent;
+    border-left: 25px solid #0087CC;
+    top: 0px;
+    right: -25px;
+}
 
 	.content_type_clase_fantastisch #actividad .content .header .title h3 span {
 		float: left;
