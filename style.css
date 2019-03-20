@@ -813,16 +813,6 @@
     background-color: transparent;
 }
 
-.fa-chevron-down:before {
-    content: " ";
-    background: url(images/iconovideo.png);
-    padding: 5px;
-    position: relative;
-    width: 20px;
-    height: auto;
-    top: 0px;
-    left: 0px;
-}
 
 
 /* Icons */
