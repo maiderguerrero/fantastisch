@@ -759,6 +759,15 @@
     background: #D8E6F7;
 }
 
+/*Celda 4*/
+
+.content table:not(.rf-tablegrid) td.bck-td-4 {
+    border: 3px solid #fff;
+    padding: 10px;
+    background: #E0DCD5;
+    font-weight: 600;
+}
+
 /* Icons */
 
 #actividad .player.audio {
