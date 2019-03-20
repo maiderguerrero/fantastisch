@@ -169,7 +169,7 @@
 
 	#actividad .player.audio {
 	    border-radius: 0px;
-	    background: url(/images/iconoaudio.png) center center / cover;
+	    background: url(images/iconoaudio.png) center center / cover;
 	}
 
 	@media screen and (max-width: 480px) {
