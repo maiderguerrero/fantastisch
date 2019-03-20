@@ -60,14 +60,15 @@
 
 	.content_type_clase_fantastisch #actividad .content .header .title h3 {
 		position: relative;
-		display: block;
-		width: 100%;
-		margin: 0;
-		padding: 0;
-		color: #8b9c23;
-		font-size: 1.8rem;
-		font-weight: bold;
-		text-align: left;
+	    display: block;
+	    width: fit-content;
+	    margin: 0;
+	    padding: 10px 20px 10px 30px;
+	    color: #fff;
+	    font-size: 3.5rem;
+	    font-weight: bold;
+	    text-align: left;
+	    background: #0087CC;
 	}
 
 	.content_type_clase_fantastisch #actividad .content .header .title h3 span {
