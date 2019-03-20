@@ -803,6 +803,28 @@
     
 }
 
+
+/*DESPLEGABLE*/
+.bck-dropdown-content {
+    overflow-y: auto;
+    display: none;
+    max-height: 300px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.fa-chevron-down:before {
+    content: " ";
+    background: url(images/iconovideo.png);
+    padding: 5px;
+    position: absolute;
+    width: 20px;
+    height: auto;
+    top: 5px;
+    left: 5px;
+}
+
+
 /* Icons */
 
 #actividad .player.audio {
