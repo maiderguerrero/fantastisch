@@ -656,6 +656,20 @@
 	background: #fff;
 }
 
+/*Caja 4*/
+
+.bck-box.bck-box4 {
+	margin: 10px;
+	border: none;
+	background: #fff;
+
+}
+
+.bck-box4 .bck-title {
+	color: #0087CC;
+	font-size: 2.5rem;
+    font-weight: 600;
+}
 
 
 /*TABLA POR DEFECTO*/
