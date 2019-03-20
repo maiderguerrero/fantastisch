@@ -716,9 +716,10 @@
 }
 
 
+
 /*TABLA POR DEFECTO*/
 
-
+/*
 .content table:not(.rf-tablegrid) td,
 .content table:not(.rf-tablegrid) th {
     border: 3px solid #fff;
@@ -730,6 +731,8 @@
     border: 1px solid #F37731;
     margin-bottom: 20px;
 }
+
+*/
 
 /*Celda 1*/
 
