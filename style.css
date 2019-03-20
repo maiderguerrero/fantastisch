@@ -636,6 +636,17 @@
     border: 1px solid #0087CC;
 }
 
+/*LISTA DESORDENADA 4*/
+
+.texto_curso .bck-ul4 li:before, 
+.workspace .bck-ul4 li ul li:before, 
+.cke_contents .bck-ul4 li:before {
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+    border: 1px solid #414141;
+}
+
 
 /*CAJAS*/
 
