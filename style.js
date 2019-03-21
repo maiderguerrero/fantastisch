@@ -37,7 +37,7 @@
 				{ name: 'Celda 5', element: 'td', attributes: { 'class': 'bck-td-5' } },
 
 			
-				{ name: 'Icono Audio', element: 'span', attributes: { 'class': 'icon icon-audio' } },
+				{ name: 'Icono Video', element: 'span', attributes: { 'class': 'icon icon-video' } },
 				{ name: 'Icono Writing', element: 'span', attributes: { 'class': 'icon icon-write' } },
 				{ name: 'Icono Speaking 1', element: 'span', attributes: { 'class': 'icon icon-speaking_1' } },
 				{ name: 'Icono Speaking 2', element: 'span', attributes: { 'class': 'icon icon-speaking_2' } },
