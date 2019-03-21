@@ -828,8 +828,8 @@
 	margin-top: -16px;
 }
 
-.item-container .icon-audio:before {
-	background-image: url(images/iconoaudio.png);
+.item-container .icon-video:before {
+	background-image: url(images/iconovideo.png);
 }
 
 .item-container .icon-draw:before {
