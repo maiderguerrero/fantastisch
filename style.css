@@ -273,7 +273,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
     padding: 0px 16px 0px 30px;
 	background-repeat: repeat-y;
     background-position: right;
-    background-position-x: 213px;
+    background-position-x: 263px;
     background-image: url(images/triangulo_blanco.png);
     background-repeat-x: no-repeat;
     background-size: contain;
@@ -301,7 +301,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     color: #fff;
     background-repeat: repeat-y;
     background-position: right;
-    background-position-x: 213px;
+    background-position-x: 263px;
     background-image: url(images/triangulo_azul.png);
     background-repeat-x: no-repeat;
     background-size: contain;
