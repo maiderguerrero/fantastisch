@@ -326,7 +326,7 @@
     	  color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #F4F2F0;
+		background: #ccc;
    		color: transparent;
 	}
 	#bottom-navigator.show_left:before {
@@ -743,6 +743,7 @@
 .bck-box.bck-box4 {
 	border: 2px solid #B3B2B2;
 	background: #fff;
+	padding: 20px;
 }
 
 /*Caja 5*/
