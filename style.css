@@ -835,42 +835,52 @@
 
 .item-container .icon-video:before {
 	background-image: url(images/iconovideo.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-draw:before {
 	background-image: url(images/icon_draw.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-write:before {
 	background-image: url(images/icon_write.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-speaking_1:before {
 	background-image: url(images/icon_speaking_1.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-speaking_2:before {
 	background-image: url(images/icon_speaking_2_2.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-reading_1:before {
 	background-image: url(images/icon_reading_1.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-reading_2:before {
 	background-image: url(images/icon_reading_2.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-bocadillo:before {
 	background-image: url(images/icon_bocadillo.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-mascaras:before {
 	background-image: url(images/icon_mascaras.png);
+	margin-top: 5px;
 }
 
 .item-container .icon-boca:before {
 	background-image: url(images/icon_boca.png);
+	margin-top: 5px;
 }
 /* Forms */
 
