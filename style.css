@@ -251,6 +251,75 @@
 	}
 /**/
 
+/*TOC*/
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+    color: #fff;
+    font-size: 1.8rem;
+}
+
+#indice .units ul li a:not(.delete) {
+    display: block;
+    padding: 12px 16px;
+}
+
+
+#indice .units ul li {
+    background-color: #fff;
+    -webkit-border-radius: 0px; 
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    margin-bottom: 8px;
+    padding: 0px 16px 0px 30px;
+	background-repeat: repeat-y;
+    background-position: right;
+    background-position-x: 213px;
+    background-image: url(images/triangulo_blanco.png);
+    background-repeat-x: no-repeat;
+    background-size: contain;
+}
+
+#indice .units ul li:before {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    height: 0;
+    border-bottom: 20px solid transparent;
+    border-top: 21px solid transparent;
+    border-left: 30px solid #eeeeee;
+    padding: 0px;
+    left: 0;
+}
+
+#indice .units ul li.active:not(.disabled), 
+body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
+#indice .units ul li:focus:not(.disabled) {
+    background-color: #0088d0;
+    color: #fff;
+    z-index: 17;
+    color: #fff;
+    background-repeat: repeat-y;
+    background-position: right;
+    background-position-x: 213px;
+    background-image: url(images/triangulo_azul.png);
+    background-repeat-x: no-repeat;
+    background-size: contain;
+}
+
+#indice .units ul li:not(.add) a .title {
+    margin-left: 10px;
+    font-size: 1.8rem;
+    color: #0087CC;
+}
+
+.btn-primary, .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus {
+    color: #fff;
+    background-color: #0087CC;
+    border-color: transparent;
+    opacity: 1;
+}
+
 /* Navbar */
 	.navbar-bottom {
 		background: #0087CC !important;
