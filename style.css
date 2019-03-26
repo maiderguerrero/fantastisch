@@ -358,7 +358,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 	.slider-indicators li:hover,
 	.edit .slider-indicators .concat.active,
 	.slider-indicators .active {
-	    background-color: #F4F2F0;
+	    background-color: #CCCCCC;
 	    color: #333;
 	}
 
