@@ -877,6 +877,12 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     
 }
 
+/*ACTIVIDAD RESPUESTA MULTIPLE*/
+.content_type_clase_fantastisch #actividad .texto_curso li, 
+.content_type_clase_fantastisch #actividad .workspace ul li li {
+	margin-bottom: 10px;
+    line-height: inherit;
+}
 
 
 
