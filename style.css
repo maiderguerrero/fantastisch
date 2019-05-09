@@ -252,6 +252,19 @@
 /**/
 
 /*TOC*/
+
+.col-units {
+    margin-right: 20px;
+    width: 315px;
+}
+
+a:hover, a:active, a:focus {
+    outline: 0;
+    color: #0087cc;
+    text-decoration: none;
+}
+
+
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
     color: #fff;
@@ -273,7 +286,7 @@ body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
     padding: 0px 16px 0px 30px;
 	background-repeat: repeat-y;
     background-position: right;
-    background-position-x: 263px;
+    background-position-x: 280px;
     background-image: url(images/triangulo_blanco.png);
     background-repeat-x: no-repeat;
     background-size: contain;
@@ -301,7 +314,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     color: #fff;
     background-repeat: repeat-y;
     background-position: right;
-    background-position-x: 263px;
+    background-position-x: 280px;
     background-image: url(images/triangulo_azul.png);
     background-repeat-x: no-repeat;
     background-size: contain;
@@ -1006,7 +1019,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 
 .fillblanks-draggable-wrapper .response .bck-i-fullscreen-wrapper {
-    padding: 0;
+    padding: 0;c
 }
 
 body.content_type_clase_fantastisch #actividad .content .fillblanks-draggable-wrapper
