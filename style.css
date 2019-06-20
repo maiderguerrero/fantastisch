@@ -524,6 +524,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 	position: relative;
 	line-height: 1.1rem;
 	color: #333;
+	font-weight: normal;
 }
 
 .content .bck-ol1 li:before,
