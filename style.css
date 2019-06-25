@@ -975,7 +975,325 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 .item-container .icon-boca:before {
   background-image: url(images/icon_boca.png);
   margin-top: -10px;
+
 }
+
+/*TAGS*/
+
+/*TAG UNIDAD 0*/
+
+.unittag_unidad0_fantastisch #actividad .content .header .title h3 {
+    background: #B10776;
+}
+
+.unittag_unidad0_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #B10776;
+}
+
+/*Tag Unidad 0 - Lista Ordenada 3*/
+
+.unittag_unidad0_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad0_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #B10776;
+}
+
+/*Tag 0 - Choose - Match - Ordenar*/
+.unittag_unidad0_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad0_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad0_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #B10776;
+}
+
+.unittag_unidad0_fantastisch .navbar-bottom {
+    background: #B10776 !important;
+}
+
+/**/
+
+/*TAG UNIDAD 2*/
+
+.unittag_unidad2_fantastisch #actividad .content .header .title h3 {
+    background: #95C11F;
+}
+
+.unittag_unidad2_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #95C11F;
+}
+
+/*Tag Unidad 2 - Título 3*/
+
+.unittag_unidad2_fantastisch .bck-title3 {
+    background-color: #95C11F;
+}
+
+/*Tag Unidad 2 - Lista Ordenada 3*/
+
+.unittag_unidad2_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad2_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #95C11F;
+}
+
+/*Tag Unidad 2 - Lista Ordenada 6*/
+
+.content .bck-ol6 li:before, .cke_contents .bck-ol6 li:before {
+   background: #95C11F;
+}
+
+/*Tag Unidad 2 - Navbar*/
+.unittag_unidad2_fantastisch .navbar-bottom {
+    background: #95C11F !important;
+}
+
+/*Tag Unidad 2 - Fill in the blanks*/
+.unittag_unidad2_fantastisch .slide_main input:focus {
+  border-bottom-color: #95C11F;
+}
+
+/*Tag Unidad 2 - Choose - Match - Ordenar*/
+.unittag_unidad2_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad2_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad2_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #95C11F;
+}
+
+/*Tag Unidad 2 - Clasificar*/
+.unittag_unidad2_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #95C11F;
+}
+
+/**/
+
+/*TAG UNIDAD 3*/
+.unittag_unidad3_fantastisch #actividad .content .header .title h3 {
+    background: #E94E0F;
+}
+
+.unittag_unidad3_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #E94E0F;
+}
+
+/*Tag Unidad 3 - Título 3*/
+.unittag_unidad3_fantastisch .bck-title3 {
+    background-color: #E94E0F;
+}
+
+/*Tag Unidad 3 - Lista Ordenada 3*/
+.unittag_unidad3_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad3_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #E94E0F;
+}
+
+/*Tag Unidad 3 - Lista Ordenada 6*/
+.unittag_unidad3_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad3_fantastisch .cke_contents .bck-ol6 li:before {
+   background: #E94E0F;
+}
+
+/*Tag Unidad 3 - Caja 3*/
+.unittag_unidad3_fantastisch .bck-box.bck-box3 {
+    border: 2px solid #E94E0F;
+}
+
+
+/*Tag Unidad 3 - Navbar*/
+.unittag_unidad3_fantastisch .navbar-bottom {
+    background: #E94E0F !important;
+}
+
+/*Tag Unidad 3 - Fill in the blanks*/
+.unittag_unidad3_fantastisch .slide_main input:focus {
+  border-bottom-color: #E94E0F;
+}
+
+/*Tag Unidad 3 - Choose - Match - Ordenar*/
+.unittag_unidad3_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad3_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad3_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #E94E0F;
+}
+
+/*Tag Unidad 3 - Clasificar*/
+.unittag_unidad3_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #E94E0F;
+}
+
+/**/
+
+/*TAG UNIDAD 4*/
+.unittag_unidad4_fantastisch #actividad .content .header .title h3 {
+    background: #00AFAE;
+}
+
+.unittag_unidad4_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #00AFAE;
+}
+
+/*Tag Unidad 4 - Título 3*/
+.unittag_unidad4_fantastisch .bck-title3 {
+    background-color: #00AFAE;
+}
+
+/*Tag Unidad 4 - Lista Ordenada 3*/
+.unittag_unidad4_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad4_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #00AFAE;
+}
+
+/*Tag Unidad 4 - Lista Ordenada 6*/
+.unittag_unidad4_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad4_fantastisch .cke_contents .bck-ol6 li:before {
+   background: #00AFAE;
+}
+
+/*Tag Unidad 4 - Caja 3*/
+.unittag_unidad4_fantastisch .bck-box.bck-box3 {
+    border: 2px solid #00AFAE;
+}
+
+/*Tag Unidad 4 - Navbar*/
+.unittag_unidad4_fantastisch .navbar-bottom {
+    background: #00AFAE !important;
+}
+
+/*Tag Unidad 4 - Fill in the blanks*/
+.unittag_unidad4_fantastisch .slide_main input:focus {
+  border-bottom-color: #00AFAE;
+}
+
+/*Tag Unidad 4 - Choose - Match - Ordenar*/
+.unittag_unidad4_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad4_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad4_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #00AFAE;
+}
+
+/*Tag Unidad 4 - Clasificar*/
+.unittag_unidad4_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #00AFAE;
+}
+
+/**/
+
+/*TAG UNIDAD 5*/
+
+.unittag_unidad5_fantastisch #actividad .content .header .title h3 {
+    background: #A84D97;
+}
+
+.unittag_unidad5_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #A84D97;
+}
+
+/*Tag Unidad 5 - Título 3*/
+.unittag_unidad5_fantastisch .bck-title3 {
+    background-color: #A84D97;
+}
+
+/*Tag Unidad 5 - Lista Ordenada 3*/
+.unittag_unidad5_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad5_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #A84D97;
+}
+
+
+/*Tag Unidad 5 - Lista Ordenada 6*/
+.unittag_unidad5_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad5_fantastisch .cke_contents .bck-ol6 li:before {
+   background: #A84D97;
+}
+
+/*Tag Unidad 5 - Caja 3*/
+.unittag_unidad5_fantastisch .bck-box.bck-box3 {
+    border: 2px solid #A84D97;
+}
+
+/*Tag Unidad 5 - Navbar*/
+.unittag_unidad5_fantastisch .navbar-bottom {
+    background: #A84D97 !important;
+}
+
+/*Tag Unidad 5 - Fill in the blanks*/
+.unittag_unidad5_fantastisch .slide_main input:focus {
+  border-bottom-color: #A84D97;
+}
+
+/*Tag Unidad 5 - Choose - Match - Ordenar*/
+.unittag_unidad5_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad5_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad5_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #A84D97;
+}
+
+/*Tag Unidad 5 - Clasificar*/
+.unittag_unidad5_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #A84D97;
+}
+
+/**/
+
+/*TAG UNIDAD 6*/
+
+.unittag_unidad6_fantastisch #actividad .content .header .title h3 {
+    background: #009E4D;
+}
+
+.unittag_unidad6_fantastisch #actividad .content .header .title h3:after {
+    border-left: 25px solid #009E4D;
+}
+
+/*Tag Unidad 6 - Título 3*/
+.unittag_unidad6_fantastisch .bck-title3 {
+    background-color: #009E4D;
+}
+
+/*Tag Unidad 6 - Lista Ordenada 3*/
+.unittag_unidad6_fantastisch .content .bck-ol3 li:before, 
+.unittag_unidad6_fantastisch .cke_contents .bck-ol3 li:before {
+    color: #009E4D;
+}
+
+/*Tag Unidad 6 - Lista Ordenada 5*/
+.unittag_unidad6_fantastisch .content .bck-ol5 li:before, 
+.unittag_unidad5_fantastisch .cke_contents .bck-ol5 li:before {
+    color: #009E4D;
+}
+
+/*Tag Unidad 6 - Lista Ordenada 6*/
+.unittag_unidad6_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad6_fantastisch .cke_contents .bck-ol6 li:before {
+   background: #009E4D;
+}
+
+/*Tag Unidad 6 - Caja 3*/
+.unittag_unidad6_fantastisch .bck-box.bck-box3 {
+    border: 2px solid #009E4D;
+}
+
+/*Tag Unidad 6 - Navbar*/
+.unittag_unidad6_fantastisch .navbar-bottom {
+    background: #009E4D !important;
+}
+
+/*Tag Unidad 6 - Fill in the blanks*/
+.unittag_unidad6_fantastisch .slide_main input:focus {
+  border-bottom-color: #009E4D;
+}
+
+/*Tag Unidad 6 - Choose - Match - Ordenar*/
+.unittag_unidad6_fantastisch #actividad .workspace.multiple-choice .opcion, 
+.unittag_unidad6_fantastisch #actividad .workspace.matching .opcion, 
+.unittag_unidad6_fantastisch #actividad .workspace.ordenar .js-rank-item {
+   border: 2px solid #009E4D;
+}
+
+/*Tag Unidad 6 - Clasificar*/
+.unittag_unidad6_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #009E4D;
+}
+
+/**/
+
+
 /* Forms */
 
 .content_type_clase_fantastisch .slide_main input,
