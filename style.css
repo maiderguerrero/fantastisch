@@ -607,7 +607,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
   counter-increment: bck-li-counter;
   position: relative;
   line-height: 1.1rem;
-  font-weight: bold;
+  font-weight: normal;
   color: #333;
 }
 
