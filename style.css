@@ -547,7 +547,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     border-radius: 0px;
     background: #fff;
     color: #333;
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     text-align: center;
     line-height: inherit;
