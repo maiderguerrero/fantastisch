@@ -1007,7 +1007,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 
 /*Tag Unidad 0 - Fill in the blanks*/
-.unittag_unidad0_fantastisch .content_type_clase_fantastisch .slide_main input:focus {
+.unittag_unidad0_fantastisch .slide_main input:focus {
   border-bottom-color: #B10776;
 }
 
@@ -1365,7 +1365,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 
 .fillblanks-draggable-wrapper .response .bck-i-fullscreen-wrapper {
-    padding: 0;c
+    padding: 0;
 }
 
 body.content_type_clase_fantastisch #actividad .content .fillblanks-draggable-wrapper
