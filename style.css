@@ -1068,7 +1068,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 2 - Fill in the blanks*/
 .unittag_unidad2_fantastisch .slide_main input:focus {
-  border-bottom-color: #95C11F;
+  border-bottom-color: #95C11F !important;
 }
 
 /*Tag Unidad 2 - Choose - Match - Ordenar*/
@@ -1124,7 +1124,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 3 - Fill in the blanks*/
 .unittag_unidad3_fantastisch .slide_main input:focus {
-  border-bottom-color: #E94E0F;
+  border-bottom-color: #E94E0F !important;
 }
 
 /*Tag Unidad 3 - Choose - Match - Ordenar*/
@@ -1179,7 +1179,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 4 - Fill in the blanks*/
 .unittag_unidad4_fantastisch .slide_main input:focus {
-  border-bottom-color: #00AFAE;
+  border-bottom-color: #00AFAE !important;
 }
 
 /*Tag Unidad 4 - Choose - Match - Ordenar*/
@@ -1236,7 +1236,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 5 - Fill in the blanks*/
 .unittag_unidad5_fantastisch .slide_main input:focus {
-  border-bottom-color: #A84D97;
+  border-bottom-color: #A84D97 !important;
 }
 
 /*Tag Unidad 5 - Choose - Match - Ordenar*/
@@ -1298,7 +1298,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 6 - Fill in the blanks*/
 .unittag_unidad6_fantastisch .slide_main input:focus {
-  border-bottom-color: #009E4D;
+  border-bottom-color: #009E4D !important;
 }
 
 /*Tag Unidad 6 - Choose - Match - Ordenar*/
