@@ -1046,7 +1046,8 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 /*Tag Unidad 2 - Lista Ordenada 6*/
 
-.content .bck-ol6 li:before, .cke_contents .bck-ol6 li:before {
+.unittag_unidad2_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad2_fantastisch .cke_contents .bck-ol6 li:before {
    background: #95C11F;
 }
 
