@@ -997,6 +997,11 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     color: #B10776;
 }
 
+/*Tag Unidad 0 - Fill in the blanks*/
+.unittag_unidad0_fantastisch .slide_main input:focus {
+  border-bottom-color: #B10776;
+}
+
 /*Tag 0 - Choose - Match - Ordenar*/
 .unittag_unidad0_fantastisch #actividad .workspace.multiple-choice .opcion, 
 .unittag_unidad0_fantastisch #actividad .workspace.matching .opcion, 
@@ -1004,9 +1009,15 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
    border: 2px solid #B10776;
 }
 
+/*Tag Unidad 0 - Clasificar*/
+.unittag_unidad0_fantastisch #actividad .workspace.clasificar .clasificar_conjuntos .conjunto .group-box {
+      border: 2px solid #B10776;
+}
+
 .unittag_unidad0_fantastisch .navbar-bottom {
     background: #B10776 !important;
 }
+
 
 /**/
 
