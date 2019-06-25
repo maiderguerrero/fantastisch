@@ -997,6 +997,14 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     color: #B10776;
 }
 
+
+/*Tag Unidad 0 - Lista Ordenada 6*/
+
+.unittag_unidad0_fantastisch .content .bck-ol6 li:before, 
+.unittag_unidad0_fantastisch .cke_contents .bck-ol6 li:before {
+    background: #B10776;
+}
+
 /*Tag Unidad 0 - Fill in the blanks*/
 .unittag_unidad0_fantastisch .slide_main input:focus {
   border-bottom-color: #B10776;
