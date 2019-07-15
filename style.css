@@ -504,7 +504,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     width: 0;
     height: 0;
     border-bottom: 25px solid transparent;
-    border-top: 27px solid transparent;
+    border-top: 22px solid transparent;
     border-left: 25px solid #fff;
     top: 0px;
     left: 0;
@@ -517,8 +517,8 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     z-index: 10;
     width: 0;
     height: 0;
-    border-bottom: 25px solid transparent;
-    border-top: 28px solid transparent;
+    border-bottom: 23px solid transparent;
+    border-top: 21px solid transparent;
     border-left: 25px solid #0087CC;
     top: 0px;
     right: -25px;
