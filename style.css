@@ -58,6 +58,8 @@
     display: none;
   }
 
+  /*Título Slide*/
+
   .content_type_clase_fantastisch #actividad .content .header .title h3 {
     position: relative;
       display: block;
@@ -105,6 +107,8 @@
     font-weight: 900;
     line-height: 1.1rem;
   }
+
+  /**/
 
   .content_type_clase_fantastisch #actividad .slide_content_type_1 .pregunta .texto_curso,
   .content_type_clase_fantastisch #actividad .texto_curso,
@@ -480,10 +484,55 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 /*TITULO 4*/
 
 .bck-title4 {
-    color: #5DBFC0;
-    font-size: 2.4rem;
-    font-weight: bold;
+    position: relative;
+      display: block;
+      width: fit-content;
+      margin: 0;
+      padding: 10px 20px 10px 45px;
+      color: #fff;
+      font-size: 3 rem;
+      font-weight: bold;
+      text-align: left;
+      background: #0087CC;
+  }
+
+.bck-title4:before {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-bottom: 25px solid transparent;
+    border-top: 27px solid transparent;
+    border-left: 25px solid #fff;
+    top: 0px;
+    left: 0;
 }
+
+.bck-title4:after {
+    content: '';
+    display: block;
+    position: absolute;
+    z-index: 10;
+    width: 0;
+    height: 0;
+    border-bottom: 25px solid transparent;
+    border-top: 28px solid transparent;
+    border-left: 25px solid #0087CC;
+    top: 0px;
+    right: -25px;
+}
+
+/*
+.bck-title4 span {
+    float: left;
+    font-size: 1.8rem;
+    font-weight: 900;
+    line-height: 1.1rem;
+  }
+  */
+
 
 /* Lists */
 
