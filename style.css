@@ -505,7 +505,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     height: 0;
     border-bottom: 25px solid transparent;
     border-top: 22px solid transparent;
-    border-left: 25px solid #fff;
+    border-left: 25px solid #BED9E7;
     top: 0px;
     left: 0;
 }
@@ -890,8 +890,6 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
   font-size: 2.5rem;
     font-weight: 600;
 }
-
-
 
 
 
