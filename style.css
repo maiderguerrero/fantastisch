@@ -1039,6 +1039,17 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     border-left: 25px solid #B10776;
 }
 
+/*Tag Unidad 0 - Título 4*/
+
+.unittag_unidad0_fantastisch .bck-title4 {
+    background: #B10776;
+  }
+
+.unittag_unidad0_fantastisch .bck-title4:after {
+    border-left: 25px solid #B10776;
+}
+
+
 /*Tag Unidad 0 - Lista Ordenada 3*/
 
 .unittag_unidad0_fantastisch .content .bck-ol3 li:before, 
@@ -1061,7 +1072,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 }
 
 
-/*Tag 0 - Choose - Match - Ordenar*/
+/*Tag Unidad 0 - Choose - Match - Ordenar*/
 .unittag_unidad0_fantastisch #actividad .workspace.multiple-choice .opcion, 
 .unittag_unidad0_fantastisch #actividad .workspace.matching .opcion, 
 .unittag_unidad0_fantastisch #actividad .workspace.ordenar .js-rank-item {
@@ -1094,6 +1105,16 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 
 .unittag_unidad2_fantastisch .bck-title3 {
     background-color: #95C11F;
+}
+
+/*Tag Unidad 2 - Título 4*/
+
+.unittag_unidad2_fantastisch .bck-title4 {
+    background: #95C11F;
+  }
+
+.unittag_unidad2_fantastisch .bck-title4:after {
+    border-left: 25px solid #95C11F;
 }
 
 /*Tag Unidad 2 - Lista Ordenada 3*/
@@ -1147,6 +1168,17 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 .unittag_unidad3_fantastisch .bck-title3 {
     background-color: #E94E0F;
 }
+
+/*Tag Unidad 3 - Título 4*/
+
+.unittag_unidad3_fantastisch .bck-title4 {
+    background: #E94E0F;
+  }
+
+.unittag_unidad3_fantastisch .bck-title4:after {
+    border-left: 25px solid #E94E0F;
+}
+
 
 /*Tag Unidad 3 - Lista Ordenada 3*/
 .unittag_unidad3_fantastisch .content .bck-ol3 li:before, 
@@ -1202,6 +1234,16 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 /*Tag Unidad 4 - Título 3*/
 .unittag_unidad4_fantastisch .bck-title3 {
     background-color: #00AFAE;
+}
+
+/*Tag Unidad 4 - Título 4*/
+
+.unittag_unidad4_fantastisch .bck-title4 {
+    background: #00AFAE;
+  }
+
+.unittag_unidad4_fantastisch .bck-title4:after {
+    border-left: 25px solid #00AFAE;
 }
 
 /*Tag Unidad 4 - Lista Ordenada 3*/
@@ -1260,6 +1302,16 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     background-color: #A84D97;
 }
 
+/*Tag Unidad 5 - Título 4*/
+
+.unittag_unidad5_fantastisch .bck-title4 {
+    background: #A84D97;
+  }
+
+.unittag_unidad5_fantastisch .bck-title4:after {
+    border-left: 25px solid #A84D97;
+}
+
 /*Tag Unidad 5 - Lista Ordenada 3*/
 .unittag_unidad5_fantastisch .content .bck-ol3 li:before, 
 .unittag_unidad5_fantastisch .cke_contents .bck-ol3 li:before {
@@ -1315,6 +1367,16 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
 /*Tag Unidad 6 - Título 3*/
 .unittag_unidad6_fantastisch .bck-title3 {
     background-color: #009E4D;
+}
+
+/*Tag Unidad 6 - Título 4*/
+
+.unittag_unidad6_fantastisch .bck-title4 {
+    background: #009E4D;
+  }
+
+.unittag_unidad6_fantastisch .bck-title4:after {
+    border-left: 25px solid #009E4D;
 }
 
 /*Tag Unidad 6 - Lista Ordenada 3*/
